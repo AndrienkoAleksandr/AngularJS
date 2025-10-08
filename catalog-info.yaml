@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: AndrienkoAleksandr/AngularJS
 spec:
   type: other
+  owner: AndrienkoAleksandr
   lifecycle: unknown
-  owner: user:default/andrienkoaleksandr
